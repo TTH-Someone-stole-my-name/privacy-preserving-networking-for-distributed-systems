@@ -5,9 +5,10 @@ This repository contains the supporting material produced while working on my Ph
 The contents of this repository are grouped in folder for the chapters in the thesis where they were being used. Material exists for chapters 4, 5, 6 and 7. 
 
 ## Chapter 4
-
+TODO
 ## Chapter 5
-
+TODO
 ## Chapter 6
-
+TODO
 ## Chapter 7
+Prototype how to improve the performance of onion services for M2M communication 
